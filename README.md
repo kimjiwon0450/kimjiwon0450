@@ -29,14 +29,6 @@
 
 <br/>
 
-<img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub City">
-
-<br/><br/>
-
-
-
-<br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:333399,100:FF00CC&height=80&section=footer" width="100%">
 
 </div>
