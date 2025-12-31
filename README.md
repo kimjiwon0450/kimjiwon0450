@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/MSSQL-6576EB?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-<br/><br/>
+<br/>
 
 <h3>💖 GitHub Vibe Check 💖</h3>
 
