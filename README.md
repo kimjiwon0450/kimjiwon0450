@@ -20,9 +20,7 @@
 
 <br/>
 ### 👾 My Coding Pet
-<a href="https://github.com/kimjiwon0450">
-  <img src="https://kura.pro/galo/users/kimjiwon0450/sticky.svg" alt="Galo Pet">
-</a>
+<img src="https://media.giphy.com/media/du3J3cXyzhj75NDbdW/giphy.gif" width="50">
 <br/>
 
 ### 💖 GitHub Vibe Check 💖
