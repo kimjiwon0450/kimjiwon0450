@@ -23,22 +23,17 @@
 <h3>💖 GitHub Vibe Check 💖</h3>
 
 <p align="center">
-  <img src="https://github.com/kimjiwon0450/kimjiwon0450/blob/main/profile-summary-card-output/tokyonight/0-profile-details.svg?raw=true" width="45%">
+  <img src="https://github.com/kimjiwon0450/kimjiwon0450/blob/main/profile-summary-card-output/tokyonight/0-profile-details.svg?raw=true"  height= "80%">
   <img src="https://github.com/kimjiwon0450/kimjiwon0450/blob/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg?raw=true" width="45%">
 </p>
 
 <br/>
 
-<h3>🏘️ My GitHub City</h3>
 <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub City">
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kimjiwon0450/kimjiwon0450/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kimjiwon0450/kimjiwon0450/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kimjiwon0450/kimjiwon0450/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 <br/><br/>
 
