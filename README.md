@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-### ✨ My Tech Stack ✨
+<h3>✨ My Tech Stack ✨</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Python-FF6ad5?style=for-the-badge&logo=python&logoColor=white" />
@@ -18,25 +18,21 @@
   <img src="https://img.shields.io/badge/MSSQL-6576EB?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-<br/>
-### 👾 My Coding Pet
-<img src="https://media.giphy.com/media/du3J3cXyzhj75NDbdW/giphy.gif" width="50">
-<br/>
+<br/><br/>
 
-### 💖 GitHub Vibe Check 💖
+<h3>💖 GitHub Vibe Check 💖</h3>
 
 <p align="center">
-  <img src="https://github.com/kimjiwon0450/kimjiwon0450/blob/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="70%">
-  <img src="https://github.com/kimjiwon0450/kimjiwon0450/blob/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="45%">
+  <img src="https://github.com/kimjiwon0450/kimjiwon0450/blob/main/profile-summary-card-output/tokyonight/0-profile-details.svg?raw=true" width="45%">
+  <img src="https://github.com/kimjiwon0450/kimjiwon0450/blob/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg?raw=true" width="45%">
 </p>
 
 <br/>
 
+<h3>🏘️ My GitHub City</h3>
+<img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub City">
 
-<br/>
-### 🏘️ My GitHub City
-<img src="https://github.com/kimjiwon0450/kimjiwon0450/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
-<br/>
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kimjiwon0450/kimjiwon0450/output/github-contribution-grid-snake-dark.svg">
@@ -44,3 +40,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kimjiwon0450/kimjiwon0450/output/github-contribution-grid-snake.svg">
 </picture>
 
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:333399,100:FF00CC&height=80&section=footer" width="100%">
+
+</div>
