@@ -22,27 +22,12 @@
 ### 💖 GitHub Vibe Check 💖
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimjiwon0450&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a0b2e&title_color=ff00cc&icon_color=9477E9&text_color=ffffff" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimjiwon0450&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a0b2e&title_color=ff00cc&text_color=ffffff" height="160" alt="languages graph" />
+  <img src="https://github.com/kimjiwon0450/kimjiwon0450/blob/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="45%">
+  <img src="https://github.com/kimjiwon0450/kimjiwon0450/blob/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="45%">
 </p>
 
 <br/>
 
-### 💌 Slide into my DMs (Professionally)
-
-<p>
-<a href="mailto:fresh04502@naver.com">
-  <img src="https://img.shields.io/badge/Email-Me_%F0%9F%92%8C-FF00CC?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-<a href="링크드인이나 블로그 주소">
-  <img src="https://img.shields.io/badge/Connect_%F0%9F%92%96-333399?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-</p>
-
-<br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:333399,100:FF00CC&height=80&section=footer" width="100%">
-
-</div>
 
 <br/>
 
